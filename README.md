@@ -3,7 +3,7 @@ Predicting House Prices using various regression models. I have attempted to pre
 For this project, I have used the “House Sales in King County, USA” by harlfoxem from Kaggle (Link: https://www.kaggle.com/harlfoxem/housesalesprediction).
 
 I have evaluated the data on 4 regression models:
-) LinearRegression
+1) LinearRegression
 2) RidgeRegressiom
 3) RandomForestRegressor
 4) GradientBoostingRegressor
